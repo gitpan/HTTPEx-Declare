@@ -20,8 +20,8 @@ recommends:
   HTTP::Engine::Compat: 0
 requires:
   Carp: 0
-  HTTP::Engine: 0.0.13
+  HTTP::Engine: 0.0.14
   Sub::Exporter: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03
